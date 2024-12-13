@@ -38,7 +38,6 @@ export ZSH_CUSTOM_AUTOUPDATE_QUIET=true
   history
   macos
   minikube
-  ripgrep
   rsync
   shellfirm
   sudo
@@ -55,4 +54,3 @@ ZSH_HIGHLIGHT_STYLES[path]=none
 ZSH_HIGHLIGHT_STYLES[path_prefix]=none
 
 eval "$(zoxide init zsh)"
-eval "$(thefuck --alias)"
